@@ -3,7 +3,7 @@
 <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.jpg" alt="Banner Image">
 
 
-<p>Welcome to my page! </br> I'm Tariqul Islam Khan, Fullstack developer from <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/>Dhaka,Bangladesh.</p>
+<p>Welcome to my page! </br> I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Atik+Hassan.;Frontend+Developer.)](https://github.com/arjsabbir88), Fullstack developer from <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/>Dhaka,Bangladesh.</p>
 
 
 # 💫 About Me:
