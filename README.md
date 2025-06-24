@@ -16,9 +16,6 @@
 
 # 💫 About Me:
 ## 🚀 About Me<br>- 🔭 Currently working on: Full-stack web apps with React, Node.js && MongoDB <br>- 🌱 Learning: TypeScript, Next.js,Python && C++ <br>- 💬 Ask me about: JavaScript, React, Firebase, MongoDB  <br>- 📫 How to reach me: arjsabbir.dev@gmail.com  <br>- ⚡ Fun fact: I love solving real-world problems with clean UI!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/arj_sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaber4770" height="30" width="40" /></a><a href="https://linkedin.com/in/jaber-ahmed-7175a11b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-ahmed-7175a11b0" height="30" width="40" /></a><a href="https://www.instagram.com/mdtariqulislamkhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaber_ahmed_sijan" height="30" width="40" /></a><a href="https://www.youtube.com/@arjsabbir5229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Jack_Sargey" height="30" width="40" /></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -60,6 +57,15 @@ const anmol = {
 - ML,cyber security
 - PostgreSQL,MYSQL,redis
 - API performance optimization
+
+
+<hr/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/arj_sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaber4770" height="30" width="40" /></a><a href="https://linkedin.com/in/jaber-ahmed-7175a11b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-ahmed-7175a11b0" height="30" width="40" /></a><a href="https://www.instagram.com/mdtariqulislamkhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaber_ahmed_sijan" height="30" width="40" /></a><a href="https://www.youtube.com/@arjsabbir5229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Jack_Sargey" height="30" width="40" /></a>
+
+<hr/>
 
 
 # 💻 Tech Stack:
