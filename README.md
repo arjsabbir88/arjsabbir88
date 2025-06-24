@@ -3,7 +3,7 @@
 <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.jpg" alt="Banner Image">
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/>Dhaka,Bangladesh.</p>
+<p>Welcome to my page! </br> I'm Tariqul Islam Khan, Fullstack developer from <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/>Dhaka,Bangladesh.</p>
 
 
 <div align="center">
