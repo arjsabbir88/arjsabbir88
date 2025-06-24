@@ -44,7 +44,7 @@
 <div align="center">
 
   <!-- Top full-width stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arjsabbir88&show_icons=true&theme=github_dark" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjsabbir88&show_icons=true&theme=github_dark" width="60%" />
 
   <br/><br/>
 
