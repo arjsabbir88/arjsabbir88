@@ -3,7 +3,7 @@
 <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.jpg" alt="Banner Image">
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="(https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png)" width="13"/> <b>Dhaka,Bangladesh</p>
 
 <!--
 **arjsabbir88/arjsabbir88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
