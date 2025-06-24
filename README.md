@@ -6,7 +6,7 @@
 <div align="center">
   <h1 align="center">Welcome to my page!</h1> <br>
    <a href="https://github.com/arjsabbir88" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Tariqul+Islam+Khan;Fullstack+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Tariqul+Islam+Khan." alt="Typing SVG" />
   </a>
   <br />
   Fullstack developer from 
