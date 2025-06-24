@@ -20,6 +20,33 @@
 <p align="left">
 <a href="https://x.com/arj_sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaber4770" height="30" width="40" /></a><a href="https://linkedin.com/in/jaber-ahmed-7175a11b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaber-ahmed-7175a11b0" height="30" width="40" /></a><a href="https://www.instagram.com/mdtariqulislamkhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaber_ahmed_sijan" height="30" width="40" /></a><a href="https://www.youtube.com/@arjsabbir5229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Jack_Sargey" height="30" width="40" /></a>
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["C++", "Javascript", "Python", "React"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI", "Daisy Ui"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },
+        devOps: ["CI/CD", "Nginx", "GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
 </hr>
 
 ## 🛠️ Skills I'm Improving
@@ -30,7 +57,8 @@
 
 ## 🌱 Learning Goals
 - Clean architecture
-- ML,cyber security 
+- ML,cyber security
+- PostgreSQL,MYSQL,redis
 - API performance optimization
 
 
