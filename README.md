@@ -41,13 +41,27 @@
 
 ## 📊 GitHub Stats
 
-![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjsabbir88&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjsabbir88&layout=compact&theme=github_dark)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arjsabbir88&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <!-- Top full-width stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arjsabbir88&show_icons=true&theme=github_dark" width="95%" />
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/arjsabbir88/arjsabbir88/output/github-contribution-grid-snake.svg)
+  <br/><br/>
+
+  <!-- Bottom two side-by-side cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjsabbir88&layout=compact&theme=github_dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=arjsabbir88&theme=dark&date_format=j%20M%5B%20Y%5D" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
