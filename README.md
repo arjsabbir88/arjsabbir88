@@ -32,11 +32,13 @@
 [![](https://visitcount.itsvg.in/api?id=arjsabbir88&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/arjsabbir88/arjsabbir88/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/arjsabbir88/arjsabbir88/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
