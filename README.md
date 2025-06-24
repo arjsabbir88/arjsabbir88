@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.jpg" alt="Banner Image">
+
 <!--
 **arjsabbir88/arjsabbir88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
