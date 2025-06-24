@@ -34,9 +34,9 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/arjsabbir88/arjsabbir88/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/arjsabbir88/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/arjsabbir88/arjsabbir88/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/arjsabbir88/output/github-contribution-grid-snake-dark.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
