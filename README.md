@@ -3,15 +3,15 @@
 <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.jpg" alt="Banner Image">
 
 
-<p align="center">
-  <h1>Welcome to my page!</h1> <br>
+<div align="center">
+  <h1 align="center">Welcome to my page!</h1> <br>
    <a href="https://github.com/arjsabbir88" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Tariqul+Islam+Khan;Fullstack+Developer." alt="Typing SVG" />
   </a>
   <br />
   Fullstack developer from 
   <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/> Dhaka, Bangladesh.
-</p>
+</div>
 
 
 # 💫 About Me:
