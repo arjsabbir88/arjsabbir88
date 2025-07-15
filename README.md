@@ -9,13 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Tariqul+Islam+Khan." alt="Typing SVG" />
   </a>
   <br />
-  Fullstack developer from 
+   MERN stack developer from 
   <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/> Dhaka, Bangladesh.
 </div>
 
 
 # 💫 About Me:
-## 🚀 About Me<br>- 🔭 Currently working on: Full-stack web apps with React, Node.js && MongoDB <br>- 🌱 Learning: TypeScript, Next.js,Python && C++ <br>- 💬 Ask me about: JavaScript, React, Firebase, MongoDB  <br>- 📫 How to reach me: arjsabbir.dev@gmail.com  <br>- ⚡ Fun fact: I love solving real-world problems with clean UI!
+## 🚀 About Me<br>- 🔭 Currently working on: MERN-stack web apps with React, Node.js && MongoDB <br>- 🌱 Learning: TypeScript, Next.js,Python && C++ <br>- 💬 Ask me about: JavaScript, React, Firebase, MongoDB  <br>- 📫 How to reach me: arjsabbir.dev@gmail.com  <br>- ⚡ Fun fact: I love solving real-world problems with clean UI!
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
